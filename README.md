@@ -17,7 +17,7 @@ It is useful for beginners learning Linux administration or preparing for DevOps
 
 These commands help gather system and user-related information.
 
-```bash
+```bash krdunga
 # Check user identity (UID, GID, groups)
 id
 
